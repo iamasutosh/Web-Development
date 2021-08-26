@@ -1,0 +1,21 @@
+.topbar {
+    background-color: rgb(5, 145, 58);
+    border-radius: 5px ;
+    color: white;
+    padding: 15px;
+    margin: auto;
+    
+}
+
+.sidebar{
+    border: 1px solid black;
+    padding: 5px;
+    height: 250px;
+    width: 200px;
+    text-align: justify;
+    
+}
+
+.insider{
+    font-size: 15px;
+}
